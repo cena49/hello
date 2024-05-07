@@ -1,3 +1,3 @@
 <?php
-echo ("hii, php is working fine");
+echo "hii, php is working fine";
 ?>
